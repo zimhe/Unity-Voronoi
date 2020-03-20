@@ -1,0 +1,19 @@
+{
+  "name": "com.unity.test.library",
+  "version": "1.0.0",
+  "displayName": "test test",
+  "description": "library that contains assets for abps project",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "Zim",
+    "email": "ziming.he@zaha-hadid.com",
+    "url": ""
+  },
+  "hideInEditor": false
+}
